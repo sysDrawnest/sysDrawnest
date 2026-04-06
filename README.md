@@ -6,7 +6,7 @@
  
  <h3>I don't use much these educational sites .I love creativity, art,poem,cinema,philosophy ,history... </h3>
  
-- 🔭 I’m currently working on [AI ChatBot](https://github.com/sysDrawnest?tab=repositories)
+- 🔭 I’m currently working on [gesture-control-system](https://github.com/sysDrawnest?tab=repositories)
 
 - 🌱 I’m currently learning **Rust and Cloud**
 
